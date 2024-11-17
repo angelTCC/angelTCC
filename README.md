@@ -3,7 +3,7 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%2358CC02?logo=Duolingo&logoColor=white&link=https://www.duolingo.com/profile/angel560863)](https://www.duolingo.com/profile/angel560863)
-[![ReadMe](https://img.shields.io/badge/Goodreads-e37b06?logo)](#)
+[![ReadMe](https://img.shields.io/badge/Goodreads-e37b06?logo=readme&logoColor=fff)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)
 
