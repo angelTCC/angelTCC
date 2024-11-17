@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)
 
 
-I am a guy with a curious mind. I would like to learn something new every day. I also have a Bachelor of Science in Physics with experience in academic and personal projects, including stochastic simulations, renewable energy, and computer vision. Currently focused on back-end development and machine learning, actively seeking job opportunities to apply and expand my knowledge in technology and innovation.
+I have a curious mind and a passion for solving complex problems. I strive to learn something new every day. I hold a Bachelor of Science in Physics with experience in academic and personal projects, including stochastic simulations, renewable energy, and computer vision. Currently focused on back-end development and machine learning, I am actively seeking job opportunities to apply and expand my knowledge in technology and innovation.
 
 
 - 🌱 On the way of learning Advanced Machine Learning & Data Science (also enjoying Web Dev).
