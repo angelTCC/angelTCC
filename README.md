@@ -6,13 +6,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)
 
-<!--
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#)
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
-good reads 
-<!--![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)-->
-
 
 I am a guy with a curious mind. I would like to learn something new every day. I also have a Bachelor of Science in Physics with experience in academic and personal projects, including stochastic simulations, renewable energy, and computer vision. Currently focused on back-end development and machine learning, actively seeking job opportunities to apply and expand my knowledge in technology and innovation.
 
@@ -76,6 +69,16 @@ I am a guy with a curious mind. I would like to learn something new every day. I
 
 <!--https://dinhanhthi.com/
 https://shields.io/--->
+
+
+
+<!--
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+good reads 
+<!--![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)-->
+
 
 
 
