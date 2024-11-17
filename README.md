@@ -17,7 +17,7 @@ I am a guy with a curious mind. I would like to learn something new every day. I
 
 <!--badge/Python-3670A0?style=for-the-badge&logo-->
 
-
+Technologies I've been learning and using so far:
 
 - **Programming Languages**<br>
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
