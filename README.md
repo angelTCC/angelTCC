@@ -1,10 +1,9 @@
 ## Hi, I'm Angel - Applied Scientist 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/angeltcc/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
-[![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/user/5de6c14c15333b1375643116354ce888)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%2358CC02?logo=Duolingo&logoColor=white&link=https://www.duolingo.com/profile/angel560863)](https://www.duolingo.com/profile/angel560863)
-[![ReadMe](https://img.shields.io/badge/Goodreads-e37b06?logo=readme&logoColor=fff)](#)
-[![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)
+[![Goodreads](https://img.shields.io/badge/Goodreads-e37b06?logo=readme&logoColor=fff)](https://www.goodreads.com/user/show/183700136-angel-chaico)
+[![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](https://personal-webpage-gold.vercel.app/)
 
 
 I have a curious mind and a passion for solving complex problems. I strive to learn something new every day. I hold a Bachelor of Science in Physics with experience in academic and personal projects, including stochastic simulations, renewable energy, and computer vision. Currently focused on back-end development and machine learning, I am actively seeking job opportunities to apply and expand my knowledge in technology and innovation.
@@ -15,7 +14,8 @@ I have a curious mind and a passion for solving complex problems. I strive to le
 - 😍 My hobbies are reading, exercising and learning.
 - 💌 Contact me at angel20170238b@gmail.com 
 
-<!--badge/Python-3670A0?style=for-the-badge&logo-->
+<!--badge/Python-3670A0?style=for-the-badge&logo
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)-->
 
 Technologies I've been learning and using so far:
 
