@@ -15,7 +15,7 @@ I have a curious mind and a passion for solving complex problems. I strive to le
 - 💌 Contact me at angel20170238b@gmail.com 
 
 <!--badge/Python-3670A0?style=for-the-badge&logo
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)-->
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
 
 Technologies I've been learning and using so far:
 
@@ -123,4 +123,4 @@ good reads
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
--->
+-->-->
