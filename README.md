@@ -1,6 +1,5 @@
 ## Hi, I'm Angel - Applied Scientist 👋
 
-- 🌱 Currently learning Advanced Machine Learning & Data Science (also enjoying Web Development).
-- 👯 Looking to collaborate on applied science projects, with a focus on backend and data science.
-- 😍 My hobbies are reading, exercising, and learning.
+- 🌱 I’m interested in understanding how things work and turning that knowledge into practical solutions. With a background in Physics and a focus on software and data analysis, I seek to apply technology in a simple and useful way. I value well-done work, continuous learning, and projects that create real impact.
+
 - 💌 Contact me at angel20170238b@gmail.com.
