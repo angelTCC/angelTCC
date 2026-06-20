@@ -12,13 +12,6 @@ I build backend systems, AI-powered assistants, data platforms, machine learning
 * 🚜 Agricultural technology and decision-support systems
 * 👁️ Computer vision projects for monitoring and analysis
 
-### Currently Learning
-
-* Distributed systems and scalable backend architectures
-* MLOps and AI deployment workflows
-* Cloud-native development
-* Applied AI for agriculture
-
 ### Selected Technologies
 
 Python • FastAPI • React • React Native • TensorFlow • OpenCV • PostgreSQL • MongoDB • Docker • Linux
